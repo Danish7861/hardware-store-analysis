@@ -1,4 +1,4 @@
-# 🏪 Hardware Store — Global Inventory Business Intelligence Analysis
+# 🏪 Hardware Store — Global Inventory Data Science Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas)
@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-4c72b0?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-> A full-scale, executive-grade Business Intelligence analysis on a global hardware store's inventory dataset — built with Python, pandas, matplotlib, and seaborn. 12 professional visualizations answering real business questions across products, warehouses, categories, and countries.
+> A full-scale, executive-grade Data Science analysis on a global hardware store's inventory dataset — built with Python, pandas, matplotlib, and seaborn. 12 professional visualizations answering real business questions across products, warehouses, categories, and countries.
 
 ---
 
@@ -186,27 +186,10 @@ hardware-store-bi-analysis/
 │   └── 12_price_margin_boxplot.png
 │
 ├── hardwareStore.csv
-├── analysis.py
+├── Hardware_Store_Done.ipynb
 └── README.md
 ```
 
----
-
-## ⚙️ How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Danish7861/hardware-store-bi-analysis.git
-cd hardware-store-bi-analysis
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn
-
-# 3. Run the analysis
-python analysis.py
-```
-
-All 12 charts will be saved to the `charts/` folder automatically.
 
 ---
 
@@ -224,14 +207,14 @@ All 12 charts will be saved to the `charts/` folder automatically.
 
 ## 👤 Author
 
-**Danish Shahzad** — Data Scientist & BI Analyst
+**Danish Shahzad** — Data Scientist Role
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danishshahzad17-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/danishshahzad17)
 [![GitHub](https://img.shields.io/badge/GitHub-Danish7861-181717?style=flat-square&logo=github)](https://github.com/Danish7861)
 [![YouTube](https://img.shields.io/badge/YouTube-DanishShahzadAI-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@DanishShahzadAI)
 [![Website](https://img.shields.io/badge/Website-danishagentic.com-1B3A6B?style=flat-square)](https://danishagentic.com)
 
-> Open to remote Data Scientist and BI roles — [danish.datascientist@gmail.com](mailto:danish.datascientist@gmail.com)
+> Open to remote Data Scientist Role — [danish.datascientist@gmail.com](mailto:danish.datascientist@gmail.com)
 
 ---
 
